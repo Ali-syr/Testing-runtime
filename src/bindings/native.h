@@ -1,5 +1,5 @@
-#ifndef NATIVE_HPP
-#define NATIVE_HPP
+#ifndef NATIVE_H
+#define NATIVE_H
 
 #include "jsapi.h"
 
