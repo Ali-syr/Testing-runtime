@@ -1,5 +1,4 @@
 bin/
 spidermonkey
 *.o
-printf
 
