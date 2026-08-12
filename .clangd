@@ -1,0 +1,8 @@
+CompileFlags:
+  Add:
+    - -std=c++20
+    - -DDEBUG
+    - -DXP_LINUX
+    - -DXP_UNIX
+    - -DJS_STANDALONE
+    - -I./spidermonkey/dist/include # your path 
